@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Reymer and I'm Full Stack Software Engineer. Feel free to reach out me at:
 
 <!--
 **reymerfricasm/reymerfricasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
